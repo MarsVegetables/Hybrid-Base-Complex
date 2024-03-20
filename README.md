@@ -6,7 +6,7 @@ Moreover, we propose a strategy to extract a cleaned (optimized) valence-based s
 
 ## Project Components
 - [x] Mesh Data Structure for both Hex and Hex-dominant Mesh
-- [x] Hybrid Base Complex Extracting Algorithm
+- [x] Hybrid Base Complex Extraction Algorithm
 - [x] Structure Analysis Algorithm
 - [x] Blender Visualization Utilities - tested with Blender 3.6
 - [x] Example Codes
